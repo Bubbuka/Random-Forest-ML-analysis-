@@ -1,5 +1,5 @@
 # Random-Forest-ML-analysis-
-As a Demonstrative exercice I implement a data analysis and ML model on a Google analytics dataset of 300k+ entries.
+As a Demonstrative exercice I implement a data analysis and ML model on a Google analytics dataset of 300k+ entries./n
 The analysis is aiming to explore relations between the users and their spending patterns to to figure out some insigth about their interactions.
 With the model I´m trying to predict wether a given user on a specific visist is going to convert or not. 
 After cleaning and reformatting the data, performing some feature optimization aswell, I proceed to divide my training set. 
