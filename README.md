@@ -7,9 +7,10 @@ After cleaning and reformatting the data, performing some feature optimization a
 Due to the extreme imbalance present in the data I decided to utilize a RandomForest model applying a SMOTE optimization to oversample the data and I´m able to succesfully train the model.  
   
 The results are as follows:  
-Accuracy score: 0.974498348996698  
-Precision score: 0.5128755364806867  
-Recall score: 0.908745247148289  
+
+Accuracy score: 0.998727411555103
+Precision score: 0.9578544061302682
+Recall score: 0.946969696969697
   
 As we can see we have a optimal Accuracy score nearing 100%, but this is to be expected with such an imbalance present in the data. The precision score is not very impressive sitting at about 50%, but, due to the nature of the exercice, I´m not very concerned about a high False Positive rate as the costs per True Positive are negigeable. The score I´m really interested in is the Recall score, as this mesures the ammount of False Negatives predicted, and given I want to reduce this number as much as I can, so to not lose any potential buyers, and as we can see we manage this with a very respectable 90% score.  
   
