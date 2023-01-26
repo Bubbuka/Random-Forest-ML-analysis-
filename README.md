@@ -11,8 +11,7 @@ The results are as follows:
 Accuracy score: 0.998727411555103
 Precision score: 0.9578544061302682
 Recall score: 0.946969696969697
-  
-As we can see we have a optimal Accuracy score nearing 100%, but this is to be expected with such an imbalance present in the data. The precision score is not very impressive sitting at about 50%, but, due to the nature of the exercice, I´m not very concerned about a high False Positive rate as the costs per True Positive are negigeable. The score I´m really interested in is the Recall score, as this mesures the ammount of False Negatives predicted, and given I want to reduce this number as much as I can, so to not lose any potential buyers, and as we can see we manage this with a very respectable 90% score.  
+
   
 In conclusion this analysis was a very interesting way to demonstrate my thinking process, while also developping a pretty useful model that would help any web page administrator to apply some very succesful changes or campaigns.  
 One objective of this exercice was to stay under 50 lines of code, for the sake of simplicity, and curiously this was by far the hardest part, besides overcoming the imbalance present on the dataset, as I was tempted at every line to add some other graphs and extra relations, but I prefer to leave a more    in-deph and professional analysis for the next step in my career path.  
