@@ -10,7 +10,7 @@ The results are as follows:
 
 Accuracy score: 0.998727411555103 /
 Precision score: 0.9578544061302682 /
-Recall score: 0.946969696969697 /
+Recall score: 0.946969696969697 
 
   
 In conclusion this analysis was a very interesting way to demonstrate my thinking process, while also developping a pretty useful model that would help any web page administrator to apply some very succesful changes or campaigns.  
