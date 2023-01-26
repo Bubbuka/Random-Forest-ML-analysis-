@@ -15,4 +15,4 @@ Recall score: 0.946969696969697
   
 In conclusion this analysis was a very interesting way to demonstrate my thinking process, while also developping a pretty useful model that would help any web page administrator to apply some very succesful changes or campaigns.  
 One objective of this exercice was to stay under 50 lines of code, for the sake of simplicity, and curiously this was by far the hardest part, besides overcoming the imbalance present on the dataset, as I was tempted at every line to add some other graphs and extra relations, but I prefer to leave a more    in-deph and professional analysis for the next step in my career path.  
-Thank you for reading, check this link to see the raw data used in this exercice: Link
+Thank you for reading, check this link to see the raw data used in this exercice: [Link](https://www.kaggle.com/datasets/felipeintimaldonado/merchandise-store-google)
